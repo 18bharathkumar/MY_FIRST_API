@@ -1,7 +1,7 @@
 const {MongoClient} = require('mongodb')
 require('dotenv').config();
 
-const connection = process.env.CONNECTION_STRING = "mongodb+srv://Bharath:kLQKCxMKDmXauARR@cluster0.herl1.mongodb.net/";
+const connection = process.env.CONNECTION_STRING;
 
 let client;
 let db;
