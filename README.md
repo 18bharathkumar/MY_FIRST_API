@@ -30,7 +30,8 @@ This API was created to demonstrate CRUD (Create, Read, Update, Delete) function
 
    Example:
 
-   ```bash  CONNECTION_STRING=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+   ```bash
+   CONNECTION_STRING=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
    ```
 
 
