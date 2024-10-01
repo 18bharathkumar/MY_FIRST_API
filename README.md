@@ -45,10 +45,10 @@ This API was created to demonstrate CRUD (Create, Read, Update, Delete) function
 
 | Method | Endpoint     | Description              |
 |--------|--------------|--------------------------|
-| GET    | `/api/data`  | Retrieve data from the database |
-| POST   | `/api/data`  | Add new data to the database  |
-| PATCH  | `/api/data/:id` | Update data by ID          |
-| DELETE | `/api/data/:id` | Delete data by ID          |
+| GET    | `/api/collge`  | Retrieve data from the database |
+| POST   | `/api/collge`  | Add new data to the database  |
+| PATCH  | `/api/collge/:id` | Update data by ID          |
+| DELETE | `/api/collge/:id` | Delete data by ID          |
 
 ## Error Handling
 
