@@ -15,7 +15,7 @@ This API was created to demonstrate CRUD (Create, Read, Update, Delete) function
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+  https://github.com/18bharathkumar/MY_FIRST_API
    ```
 
 2. Install dependencies:
