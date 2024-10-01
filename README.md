@@ -32,7 +32,7 @@ This API was created to demonstrate CRUD (Create, Read, Update, Delete) function
 
    ```
   CONNECTION_STRING=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-   ```
+
 
 4. Start the server:
 
